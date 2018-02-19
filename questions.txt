@@ -1,0 +1,20 @@
+1. What is an object?
+var circle={
+x:0,
+y:100,
+diameter:50
+};
+a collection of name value pairs ( inside curly brackets )
+1. How do you access a property of an object?
+the property in an object is data it has an x and y and a diameter. 
+commands is how to access them.
+1. What is the index of the first item in an array?
+0
+an array is a list of values, separated nay commas. embedded inside of open and closed square brackets.
+1. What syntax can you use to get the third item in an array?
+2. for(var i = 0; i < 4; i++) { 
+3. ellipse(i * 100 + 100 , 200 ,  nuts[i], nums[i]); 
+
+
+1. How do you use a variable nad a loop to get every item in an array?
+2. you can use the loop above. 
